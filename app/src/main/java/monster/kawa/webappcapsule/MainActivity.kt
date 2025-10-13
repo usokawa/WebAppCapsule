@@ -1,4 +1,4 @@
-package com.example.myapplication
+package monster.kawa.webappcapsule
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
