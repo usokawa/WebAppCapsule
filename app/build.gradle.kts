@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "monster.kawa.webappcapsule"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
+        applicationId = "monster.kawa.webappcapsule"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
